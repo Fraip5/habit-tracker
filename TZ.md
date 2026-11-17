@@ -17,7 +17,7 @@
 
 - **Loop Habit Tracker** — open-source приложение для Android с графиками и подробной статистикой.
  ![Скриншот приложения](loop-habit-tracker-android-6.png)
- ![Скриншот приложения](treker-privichek-loop-big-3.png)
+ ![Скриншот приложения](treker-privichek-loop-big-3.jpg)
 - **Streaks** — минималистичное приложение для iOS с интеграцией в Apple Health.
  ![Скриншот приложения](streaks.webp)
 - **Habitica** — популярное кроссплатформенное приложение с геймификацией привычек (RPG-элементы, награды, групповые челленджи).
